@@ -1,0 +1,6 @@
+#Files to ignore
+
+#InjelliJ specific
+
+/.idea/
+*iml
