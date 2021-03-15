@@ -1,5 +1,9 @@
 package za.ac.cput.calculator;
 
+/**
+ * @author Legiste
+ */
+
 public class Division {
 
     /**
